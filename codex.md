@@ -1,4 +1,4 @@
-*First prompt* <br><br>
+#First prompt <br><br>
 You are a senior frontend engineer and UI/UX designer.
 
 TASK:
