@@ -1,4 +1,19 @@
-#First prompt <br><br>
+# 🚀 Master Frontend Enhancement Prompt (Codex / AI Coding)
+
+
+
+## 🧠 How to Use
+
+1. Copy the prompt below
+2. Replace placeholders like `[INSERT HERE]`
+3. Paste your frontend code
+4. Run in Codex / ChatGPT / any coding AI
+
+---
+
+## ⚡ MASTER PROMPT
+
+```text
 You are a senior frontend engineer and UI/UX designer.
 
 TASK:
@@ -42,10 +57,20 @@ INSTRUCTIONS:
 - Avoid unnecessary complexity
 - Keep code readable and maintainable
 
-5. OPTIONAL ENHANCEMENTS:
-- Add animations (smooth but not excessive)
+5. ADVANCED ENHANCEMENTS:
+- Add smooth animations (not excessive)
 - Add loading states / skeleton UI
 - Add dark mode support (if applicable)
+- Improve perceived performance
+
+6. CRITICAL ANALYSIS STEP (MANDATORY):
+- Analyze the current UI
+- Identify weaknesses in design, UX, and structure
+- Redesign it to be 10x better in:
+  - visual polish
+  - uniqueness
+  - smoothness
+  - modern trends
 
 OUTPUT FORMAT:
 - First: Brief explanation of improvements made
@@ -59,15 +84,22 @@ INPUT CODE:
 -----------------------
 
 IMPORTANT:
-- Do not give generic output
+- Avoid generic designs
 - Make it visually impressive and production-ready
 - Think like a top-tier UI designer (Apple-level polish)
+```
 
-#*2nd prompt*
-Based on the current improved UI, identify weaknesses and redesign it to be 10x better in terms of:
-- visual polish
-- uniqueness
-- smoothness
-- modern trends
+---
 
-Then regenerate the full code with those improvements.
+## After first result, reuse this:
+
+
+
+```text
+Further refine this UI to make it more premium, smooth, and unique.
+Focus on micro-interactions, spacing perfection, and modern design trends.
+Regenerate the full improved code.
+```
+
+---
+
